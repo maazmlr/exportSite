@@ -11,7 +11,7 @@ const Info = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas
             tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim
             et fermentum, augue. Aliquet amet volutpat quisque ut interdum
-            tincidunt duis.
+            tincidunt .
           </p>
 
           <div className="mt-4 md:mt-8">
